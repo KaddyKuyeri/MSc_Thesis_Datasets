@@ -20,6 +20,7 @@ The repository is provided to support transparency and reproducibility of the th
 
 ## Repository contents
 **data/llm_responses_108.xlsx**: Complete generated-response dataset, identified as R001–R108.
+**data/llm_responses_108_metadata.xlsx**: Complete generated-responses metadata.
 **data/verified_claims_164.xlsx**: Final unique-claim verification dataset: all 94 High-materiality claims and 70 selected Medium-materiality claims. 
 **data/verified_claim_occurrences_438.xlsx**: Occurrence-level dataset mapping the 164 verified claims to their 438 occurrences across generated responses, including contextual-applicability and jurisdiction-leakage coding
 **data/structured_comparative_content_analysis.xlsx**: Structured response-content coding used to compare contextualisation patterns across prompt conditions and models.

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these research datasets, please cite them using the metadata below."
+title: "Research datasets for On the Value of US-Developed Large Language Models for Financial Literacy in Mozambique"
+type: dataset
+authors:
+  - family-names: "Kuyeri"
+    given-names: "Kadzuwa"
+year: 2026
+version: 1.0.0
+keywords:
+  - large language models
+  - financial literacy
+  - Mozambique
+  - contextual adaptation
+  - multilingual AI
+  - factual verification

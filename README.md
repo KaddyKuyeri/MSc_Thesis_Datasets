@@ -21,10 +21,9 @@ The repository is provided to support transparency and reproducibility of the th
 ## Repository contents
 - **data/llm_responses_108.xlsx**: Complete generated-response dataset, identified as R001–R108.
 - **data/llm_responses_108_metadata.xlsx**: Complete generated-responses metadata.
-- **data/verified_claims.xlsx**: Final unique-claim verification dataset: all 94 High-materiality claims and 70 selected Medium-materiality claims. 
+- **data/verified_claims.xlsx**: Final unique-claim verification dataset: all 94 High-materiality claims and 70 selected Medium-materiality claims; and final thematic verification batches used to organise the factual-verification analysis.
 - **data/verified_claim_occurrences.xlsx**: Occurrence-level dataset mapping the 164 verified claims to their 438 occurrences across generated responses, including contextual-applicability and jurisdiction-leakage coding
 - **data/structured_comparative_content_analysis.xlsx**: Structured response-content coding used to compare contextualisation patterns across prompt conditions and models.
-- **data/thematic_verification_batches_14.xlsx**: Final thematic verification batches used to organise the factual-verification analysis.
 
 ## Key analytical denominators
 The complete generated-response dataset contains **108 responses**. Claim extraction and consolidation produced **323 unique claims**: 94 High-, 198 Medium- and 31 Low-materiality claims. The final factual-verification set contains **164 unique claims**, comprising the complete set of 94 High-materiality claims and 70 selected Medium-materiality claims. These verified claims occur **438 times** across the response dataset.

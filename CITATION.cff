@@ -7,6 +7,8 @@ authors:
     given-names: "Kadzuwa"
 year: 2026
 version: 1.0.0
+repository-code: "https://github.com/KaddyKuyeri/MSc_Thesis_Datasets"
+url: "https://github.com/KaddyKuyeri/MSc_Thesis_Datasets"
 keywords:
   - large language models
   - financial literacy
